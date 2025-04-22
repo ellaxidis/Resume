@@ -10,7 +10,7 @@
 
 ---
 
-Email: **ellaxidis.direct@gmail.com &bull; [Behance](https://www.behance.net/ellaxidis) &bull; [GitVerse](https://gitverse.ru/ellaxidis)**
+Email: ellaxidis.direct@gmail.com &bull; [Behance](https://www.behance.net/ellaxidis) &bull; [GitVerse](https://gitverse.ru/ellaxidis)
 
 Репозиторий лицензирован на условиях MIT License.
 
