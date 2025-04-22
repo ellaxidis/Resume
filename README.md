@@ -6,7 +6,7 @@
 
 ## Содержание
 
-- **[Ссылка на PDF](CONTENTS_RU/Resume.pdf)**
+- **[Ссылка на резюме](CONTENTS_RU/Resume.pdf)**
 
 ---
 
