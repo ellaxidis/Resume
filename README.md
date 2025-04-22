@@ -12,6 +12,6 @@
 
 Email: **ellaxidis.direct@gmail.com &bull; [Behance](https://www.behance.net/ellaxidis) &bull; [GitVerse](https://gitverse.ru/ellaxidis)**
 
-Репозиторий лицензирован на условиях MIT.
+Репозиторий лицензирован на условиях MIT License.
 
 &copy; 2025 Elizaveta Teplyashina. All materials are completely original and used for informational purposes only. 18+  
